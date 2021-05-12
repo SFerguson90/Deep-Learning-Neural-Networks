@@ -6,7 +6,5 @@
 * Python code
 * TensorFlow
 
-### Functionality
-The data is prepared by pulling in BTC historical prices, performing a train/test split to build the LSTM model as a timeseries model, and then analysing the given prices with the predicted prices of the model.
-
 ### Brief Overview
+The data is prepared by pulling in BTC historical prices, performing a train/test split to build the LSTM model as a timeseries model, and then analysing the given prices with the predicted prices of the model.
